@@ -1,0 +1,35 @@
+{
+    "pedroandre10@hotmail.com": {
+        "nome": "Pedro",
+        "email": "pedroandre10@hotmail.com",
+        "cpf_cnpj": "10806846461",
+        "tipo_usuario": "doador",
+        "tipo_pessoa": "Pessoa F\u00edsica",
+        "telefone": "81999399545",
+        "logradouro": "Rua Mariz vilela",
+        "cep": "50720270",
+        "senha": "Pe123dro",
+        "doacoes": {
+            "1": {
+                "tipo_material": "Pl\u00e1stico",
+                "quantidade": "1",
+                "endereco_coleta": "rua mariz",
+                "data_hora_retirada": "28/10/2024 09:00",
+                "status": "Aceito",
+                "fornecedor": "Adriana"
+            }
+        }
+    },
+    "a@gmail.com": {
+        "nome": "Adriana",
+        "email": "a@gmail.com",
+        "cpf_cnpj": "63089572400",
+        "tipo_usuario": "fornecedor",
+        "tipo_pessoa": "Pessoa F\u00edsica",
+        "telefone": "81999746667",
+        "logradouro": "rua a",
+        "cep": "50710450",
+        "senha": "Adriana 123",
+        "doacoes": {}
+    }
+}
